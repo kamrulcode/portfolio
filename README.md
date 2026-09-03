@@ -112,3 +112,31 @@ portfolio/
 ├── screenshot.png
 │
 └── README.md
+
+```
+---
+
+## 🔮 Future Improvements
+
+Planned improvements for future versions:
+
+- Add JavaScript interactions
+- Add mobile navigation menu
+- Add project filtering
+- Add project detail pages
+- Add contact form functionality
+- Add animations and micro-interactions
+- Add dark/light mode
+- Improve accessibility
+- Add SEO optimization
+- Connect contact form with a backend service
+
+---
+
+ ## 📄 License
+
+This project was created for personal portfolio and learning purposes.
+
+---
+
+⭐ **If you found this project useful or inspiring, consider giving it a star!**
