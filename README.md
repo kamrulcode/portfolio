@@ -2,9 +2,6 @@
 
 > A modern and responsive personal portfolio website built with HTML5 and CSS3 to showcase my skills, projects, experience, services, and frontend development journey.
 
-
-
-
 <table>
   <tr>
     <td>
@@ -35,12 +32,12 @@ The project was built from scratch using **HTML5 and CSS3**, with a strong focus
 
 ### Tools
 
-- Git&nbsp; - GitHub&nbsp;  - VS Code&nbsp;  - GitHub Pages
+&bull; Git &bull; GitHub &bull; VS Code &bull; GitHub Pages
 
-      
   </td>
     <td>
- ## 📸 Website Preview
+
+## 📸 Website Preview
 
   <p align="center">
   <img src="./screenshot.png" alt="Portfolio Desktop Preview" width="100%">
@@ -59,7 +56,6 @@ The project was built from scratch using **HTML5 and CSS3**, with a strong focus
 💻 **GitHub Repository:**  
 [View Source Code](https://github.com/kamrulcode/portfolio)
 
-
 ---
 
 ## ✨ Main Features
@@ -77,7 +73,6 @@ The project was built from scratch using **HTML5 and CSS3**, with a strong focus
 - 📧 Contact information
 - 🦶 Responsive footer
 - ⬆️ Back-to-top navigation
-
 
 ---
 
@@ -114,6 +109,7 @@ portfolio/
 └── README.md
 
 ```
+
 ---
 
 ## 🔮 Future Improvements
@@ -133,7 +129,7 @@ Planned improvements for future versions:
 
 ---
 
- ## 📄 License
+## 📄 License
 
 This project was created for personal portfolio and learning purposes.
 
